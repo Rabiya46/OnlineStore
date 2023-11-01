@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OnlineStore/static/css/main.b1b88a7d.css",
+    "main.js": "/OnlineStore/static/js/main.a43f504f.js",
+    "static/media/kiwi-removebg-preview.png": "/OnlineStore/static/media/kiwi-removebg-preview.3a3f947a706bfa025a8c.png",
+    "static/media/orange-removebg-preview.png": "/OnlineStore/static/media/orange-removebg-preview.ed5c24d44c31e6cffa96.png",
+    "static/media/product-1.png": "/OnlineStore/static/media/product-1.fc00e2f1bf870f64d2b7.png",
+    "index.html": "/OnlineStore/index.html",
+    "main.b1b88a7d.css.map": "/OnlineStore/static/css/main.b1b88a7d.css.map",
+    "main.a43f504f.js.map": "/OnlineStore/static/js/main.a43f504f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b88a7d.css",
+    "static/js/main.a43f504f.js"
+  ]
+}
