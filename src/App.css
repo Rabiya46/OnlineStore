@@ -1,0 +1,10 @@
+/* Общие стили */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(35, 53, 102);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
